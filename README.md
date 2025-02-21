@@ -1,8 +1,8 @@
-# NYCU Integrated Circuit Design Laboratory 2024 Spring
+# NYCU Integrated Circuit Design Laboratory Spring 2024
 
 ## Course Information
 - Title : Integrated Circuit Design Laboratory (ICLAB)
-- Semester : 2024 Spring
+- Semester : Spring 2024
 - Professor : Chen-Yi, Lee
 - Registered numbers : 127
 - Withdrawlas : 38
