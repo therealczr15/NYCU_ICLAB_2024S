@@ -17,10 +17,10 @@ The course starts from system design specs of an application which demands the n
 - APR : Innovus
 
 ## Score
-- Total Score : 94.19 (100%)
-- Rank : 2 / 89
-- Best code x 2
-- No.1 x 2
+- Total Score : **94.19** (100%)
+- Rank : **2** / 89
+- **Best code x 2** 🏆
+- **No.1 x 2** 
 - No.4 x 1
 - No.5 x 2
 - No.6 x 1
